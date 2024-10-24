@@ -9,6 +9,7 @@
       "version": "1.0.0",
       "license": "ISC",
       "dependencies": {
+        "yt-dlp-wrap": "^2.3.12", 
         "ytdl-core": "^4.11.5"
       }
     },
